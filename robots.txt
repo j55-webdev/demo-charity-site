@@ -1,0 +1,15 @@
+User-agent:*
+Disallow: /css/.DS_Store.DS_Store
+Disallow: /css/animate.css
+Disallow: /css/bootstrap.css
+Disallow: /css/bootstrap.css.map
+Disallow: /css/icomoon.css
+Disallow: /css/style/css
+Disallow: /css/style.css.map
+Disallow: /css/superfish.css
+
+Disallow: /fonts*
+Disallow: /js*
+Disallow: /sass*
+Disallow: /sass-cache*
+Disallow: /.DS_Store.DS_Store
